@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "STEjovanovicFAN"
+  },
+  "author": "Stefan Jovanovic",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.5.1",
+    "eslint": "^7.14.0",
+    "node-fetch": "^2.6.1"
+  }
+}
